@@ -1,0 +1,8 @@
+[Activity]
+name = Matter
+bundle_id = org.sugarlabs.Matter
+icon = exampleicon
+exec = sugar-activity matteractivity.MatterActivity
+show_launcher = yes
+activity_version = 1
+license = None
